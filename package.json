@@ -1,0 +1,11 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodemailer": "^4.1.0",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "repository": "",
+  "license": "MIT"
+}
